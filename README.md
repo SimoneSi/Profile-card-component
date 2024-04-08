@@ -9,7 +9,7 @@ um projeto final visualmente agradável e de uso intuitivo. Nesse sentido, de fo
 genérica, para centralizar a caixa-mágica desse projeto de modo que todas as
 propriedades de alinhamento funcionassem de imediato, a declaração das dimensões,
 como width e height, utilizando as unidades de medidas mais apropriadas para
-cada caixa e tamanho de telas diferentes, foi o que viabilizou a centralização dos elementos.
+cada caixa e tamanho de telas diferente, foi o que viabilizou a centralização dos elementos.
 
 [<img src="animacao-parallax.gif" alt=" gif da tela de perfil do usuario">]
 
