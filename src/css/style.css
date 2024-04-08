@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+body{
+    font-family: "Kumbh Sans", sans-serif;
+    background-color: var(--background-color);
+    font-size: 18px;
+    height: 100vh;
+}
+
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: #fff;
+    width: 330px;
+    height: 350px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    border-radius: 10px;
+}
+
+hr{
+    width: 100%;
+}
+
+.card .informacoes-perfil{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around ;
+    align-items: center;
+    gap: 10px;
+}
+
+.card .informacoes-perfil img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+ .card .numeros-perfil{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.card .informacoes-perfil .age,
+.card .informacoes-perfil .cidade,
+.card .numeros-perfil .tipo-contador{
+    color:var(--text-color);
+}
+
+.numeros-perfil .info .contador,
+.card .informacoes-perfil p{
+    font-weight: 700;
+}
