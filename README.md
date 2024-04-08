@@ -1,5 +1,5 @@
 # Projeto Frontend Mentor | Profile card component
-Atividade para as competência de Flex-container e Flex-item.🎁 
+Atividade para as competências de Flex-container e Flex-item.🎁 
 
 ## Experiência
 
