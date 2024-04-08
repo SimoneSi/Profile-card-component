@@ -11,7 +11,7 @@ propriedades de alinhamento funcionassem de imediato, a declaração das dimens�
 como width e height, utilizando as unidades de medidas mais apropriadas para
 cada caixa e tamanho de telas diferente, foi o que viabilizou a centralização dos elementos.
 
-<img src="/src/animacao-parallax.gif" alt=" gif da tela de perfil do usuario">
+<img width="400" src="/src/animacao-parallax.gif" alt=" gif da tela de perfil do usuario">
 
 ## Tecnologias utilizadas
 - HTML
